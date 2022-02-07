@@ -1,0 +1,21 @@
+Priority,Site,Country,% Vaccination,InfRate
+0,"Milford, MA",USA,95.7%,464.43
+1,"Wilmslow, UK",GBR,0,754.74
+2,"Immerse, MA",USA,100.0%,464.43
+3,"New Castle, DE",USA,96.4%,364.98
+4,"Wexford, Ireland",IRL,0,727.87
+5,"Brasov, Romania",ROU,0,991.43
+6,"Taunton, MA",USA,97.2%,464.43
+7,"Franklin, MA",USA,95.2%,464.43
+8,"EDC, Netherlands",NLD,0,2980.71
+9,"Solihull, UK",GBR,0,851.54
+11,"Dachstein, France",FRA,0,2669.15
+12,"Eden Prairie, MN",USA,82.1%,875.82
+13,"Golden, CO",USA,96.6%,517.08
+14,"Guyancourt, France",FRA,0,1910.78
+15,"Hullhorst, Germany",DEU,0,1733.65
+16,"Lindon, UT",USA,97.0%,717.91
+17,"Nixa, MO",USA,78.6%,481.16
+18,"Shanghai, China",CHN,0,0.02
+19,"Singapore, Singapore",SGP,0,765.38
+20,"Bangalore, India",IND,0,69.58
