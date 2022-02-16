@@ -1,21 +1,21 @@
-Priority,Site,Country,% Vaccination,InfRate
-0,"Milford, MA",USA,95.7%,464.43
-1,"Wilmslow, UK",GBR,0,754.74
-2,"Immerse, MA",USA,100.0%,464.43
-3,"New Castle, DE",USA,96.4%,364.98
-4,"Wexford, Ireland",IRL,0,764.09
-5,"Brasov, Romania",ROU,0,991.43
-6,"Taunton, MA",USA,97.2%,464.43
-7,"Franklin, MA",USA,95.2%,464.43
-8,"EDC, Netherlands",NLD,0,2980.71
-9,"Solihull, UK",GBR,0,851.54
-11,"Dachstein, France",FRA,0,2669.15
-12,"Eden Prairie, MN",USA,82.1%,875.82
-13,"Golden, CO",USA,96.6%,517.08
-14,"Guyancourt, France",FRA,0,1910.78
-15,"Hullhorst, Germany",DEU,0,1816.48
-16,"Lindon, UT",USA,97.0%,717.91
-17,"Nixa, MO",USA,78.6%,481.16
-18,"Shanghai, China",CHN,0,0.03
-19,"Singapore, Singapore",SGP,0,968.50
-20,"Bangalore, India",IND,0,62.44
+Priority,Site,Country, Vaccination,InfRate
+0,"Milford, MA",USA,95.7,215.55
+1,"Wilmslow, UK",GBR,80,463.40
+2,"Immerse, MA",USA,100,215.55
+3,"New Castle, DE",USA,96.4,227.16
+4,"Wexford, Ireland",IRL,80,692.15
+5,"Brasov, Romania",ROU,80,1033.61
+6,"Taunton, MA",USA,97.2,215.55
+7,"Franklin, MA",USA,95.2,215.55
+8,"EDC, Netherlands",NLD,80,2598.86
+9,"Solihull, UK",GBR,80,481.53
+11,"Dachstein, France",FRA,80,1415.14
+12,"Eden Prairie, MN",USA,82.1,423.52
+13,"Golden, CO",USA,96.6,266.01
+14,"Guyancourt, France",FRA,80,987.49
+15,"Hullhorst, Germany",DEU,80,1896.09
+16,"Lindon, UT",USA,80,302.16
+17,"Nixa, MO",USA,78.6,338.15
+18,"Shanghai, China",CHN,80,0.04
+19,"Singapore, Singapore",SGP,80,1455.13
+20,"Bangalore, India",IND,80,22.43
